@@ -1,1 +1,3 @@
-This is a Brute Force Solution for analyzing contents of a queue and whether the current order of the queue can be achieved through 3 swaps
+This Solution has been optimized from Brute Force.  
+
+The code analyzes contents of a queue of unordered consecutive numbers and determines whether it can be ordered by swapping three numbers. 
